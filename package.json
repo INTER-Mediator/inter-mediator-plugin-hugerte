@@ -1,0 +1,29 @@
+{
+  "name": "inter-mediator-plugin-hugerte",
+  "version": "1.0.0",
+  "description": "INTER-Mediator plug-in to use the hugerte.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jest/bin/jest.js test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-plugin-hugerte.git"
+  },
+  "keywords": [
+    "INTER-Mediator",
+    "hugerte"
+  ],
+  "devDependencies": {
+    "jest": "^29"
+  },
+  "dependencies": {
+    "hugerte": "*"
+  },
+  "author": "Masayuki Nii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INTER-Mediator/inter-mediator-plugin-hugerte/issues"
+  },
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-plugin-hugerte#readme"
+}
