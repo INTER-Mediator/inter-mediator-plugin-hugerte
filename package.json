@@ -15,10 +15,13 @@
     "hugerte"
   ],
   "devDependencies": {
-    "jest": "^29"
+    "jest": "30.5.2"
   },
   "dependencies": {
-    "hugerte": "*"
+    "hugerte": "1.0.14"
+  },
+  "overrides": {
+    "js-yaml": "4.3.2"
   },
   "author": "Masayuki Nii",
   "license": "MIT",
